@@ -1,4 +1,4 @@
-# Task 9 -  Handwritten Equation Solver using CNN
+# Handwritten Equation Solver using CNN
 
 ## Overview
 This project is a Handwritten Equation Solver using Convolutional Neural Networks (CNN). It is designed to recognize and solve handwritten mathematical equations. The purpose of this readme file is to provide a theoretical overview of the project.
